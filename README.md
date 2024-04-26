@@ -1,6 +1,6 @@
 # SOE306_projects
 This repo contains code and programs for a group project in the course software application Development Studio
-# Christine Ogoma Nwaorgu 20212297992
+# Achoezeakor Somtochukwu Philip 20201215722
 
 Chukwukelunze Melvin 20201204972
 
@@ -18,4 +18,5 @@ Onuoha Victor 20201218142
 
 Uranta Divine Levi 20201218142
 
-Achoezeakor Somtochukwu Philip 20201215722
+Christine Ogoma Nwaorgu 20212297992
+
